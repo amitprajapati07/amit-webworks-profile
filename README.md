@@ -584,33 +584,7 @@ pie title Development Focus
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=amitprajapati07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitprajapati07&layout=compact&langs_count=8&theme=github_dark&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amitprajapati07&theme=github-dark-blue&border_radius=10&border=30363d&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amitprajapati07&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💼 Professional Journey
 
@@ -655,15 +629,6 @@ Timeline ───────────────────────�
 
 ---
 
-<div align="center">
-
-<sub>🐍 Contribution Snake</sub>
-
-![Snake animation](https://raw.githubusercontent.com/amitprajapati07/amitprajapati07/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
