@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Backend+Developer+%7C+3.5%2B+Years+of+Experience;Django+%E2%9A%A1+FastAPI+%E2%9A%A1+Celery+%E2%9A%A1+Redis+%E2%9A%A1+WebSockets;AI+Agents+%7C+LLM+Integration+%7C+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Backend+Developer+%7C+3.5%2B+Years+of+Experience;Django+%E2%9A%A1+FastAPI+%E2%9A%A1+Celery+%E2%9A%A1+Redis+%E2%9A%A1+WebSockets;AI+Agents+%7C+LLM+Integration+%7C+System+Design)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## `>>> class AmitKumar:`
+## 🎯 About Me
 
 ```python
 class AmitKumar:
