@@ -33,8 +33,8 @@ class AmitKumar:
     def __init__(self):
         self.name               = "Amit Kumar"
         self.role               = "Backend Developer — Python (Django / FastAPI)"
-        self.location           = "Ludhiana, Punjab, India 🇮🇳"
-        self.experience         = "3.5+ years"
+        self.location           = "Mohali, Punjab, India 🇮🇳"
+        self.experience         = "3.7+ years"
         self.email              = "amitkumar.webworks@gmail.com"
         self.portfolio          = "https://portfolio-amit-kumar.vercel.app"
         self.linkedin           = "https://linkedin.com/in/amit-kumar-prajapati-314b58249"
